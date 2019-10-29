@@ -1,3 +1,6 @@
+# https://drive.google.com/file/d/1pP3UYoBwtoHxHZhq4hNla-FgPIITKbtP/view?usp=sharing 
+# Ссылка гугл диск на само задание
+
 import math
 
 print("The work has been done by Chechet Mykyta, IC-92")
