@@ -3,18 +3,23 @@
 
 using namespace std;
 
-string Comparing(int num1, int num2){
-    int l = to_string(max(abs(num1), abs(num2))).length();
-    for (int j=l; j >= 0; j--){
-        if ((num1 & (1 << j)) < (num2 & (1 << j))){
-            return "Yes";
-        }
-        else if ((num1 & (1 << j)) > (num2 & (1 << j))){
-            return "No";
-        }
-        
+int Sum(int num1, int num2){
+    while (num2 != 0){
+        int cur = num1 & num2;
+        num1 ^= num2;
+        num2 = cur << 1;
     }
-    return "No";
+    return num1;
+    
+}
+
+bool Comparing(int num1, int num2){
+    num2 = Sum(~num2, 1);
+    if (Sum(num1, num2) > 0){
+        return false;
+    } else {
+        return true;
+    }
 }
 
 
