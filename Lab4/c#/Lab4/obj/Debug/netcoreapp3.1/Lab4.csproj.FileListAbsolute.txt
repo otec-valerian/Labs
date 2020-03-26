@@ -1,0 +1,11 @@
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+C:\Users\Otec_Valerian\RiderProjects\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
